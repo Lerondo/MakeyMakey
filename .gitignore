@@ -41,3 +41,17 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Unity Files
+*.csproj
+*.meta
+*.mat
+8 Bit Retro Rampage Free/
+Standard Assets (Mobile)/
+Standard Assets/
+Library/
+ProjectSettings/
+*.mp3
+*.wav
+Assets/Visual/Da Wild by Funk4Mation.avi
+*.mov
